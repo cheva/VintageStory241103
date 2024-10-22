@@ -1,0 +1,12 @@
+{
+    "type": "theme",
+    "side": "client",
+    "modid": "nemi",
+    "name": "Not Enough Map Icons",
+    "description": "More waypoint icons",
+    "authors": ["Craluminum2413"],
+    "version": "1.1.0",
+    "dependencies": {
+        "game": "1.18.0-pre.1"
+    }
+}

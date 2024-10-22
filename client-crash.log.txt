@@ -1,0 +1,27 @@
+Game Version: v1.20.0-pre.6 (Unstable)
+15-Oct-24 13:24:12: Critical error occurred in the following mods: configlib@1.3.16, vsimgui@1.1.6
+Loaded Mods: bigbag@0.1.21-a, buzzwords@1.7.0, caninae@1.0.17, casuariidae@1.0.9, machairodontinae@1.0.10, manidae@1.0.3, pantherinae@1.1.10, rhinocerotidae@1.0.4, sirenia@1.0.6, juicyores@1.0.0, primitivesurvival@3.6.7, sortablestorage@2.2.7, game@1.20.0-pre.6, vtr@4.0.4, wild_cabbage_pumpkin@1.0.0, zoombuttonreborn@2.0.0, egocaribautomapmarkers@4.0.0, blocksoverlay@3.3.0, carryon@1.8.0-pre.1, extrainfo@1.8.1, fendragonbcs@0.1.1, localrespawns@1.0.7, nemi@1.1.0, precisepickedup@1.0.2, rivers@3.2.0, stepupcontinued@0.0.1, creative@1.20.0-pre.6, vsimgui@1.1.6, survival@1.20.0-pre.6, configlib@1.3.16
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at ConfigLib.ConfigWindow.DrawValuesSetting(String name, ConfigSetting setting) in D:\Projects\VintageStory\configlib\configlib\source\GUI\ConfigWindow.cs:line 543
+   at ConfigLib.ConfigWindow.DrawValidatedSetting(String name, ConfigSetting setting) in D:\Projects\VintageStory\configlib\configlib\source\GUI\ConfigWindow.cs:line 518
+   at ConfigLib.ConfigWindow.DrawSetting(ConfigSetting setting) in D:\Projects\VintageStory\configlib\configlib\source\GUI\ConfigWindow.cs:line 457
+   at ConfigLib.ConfigWindow.DrawModConfig(Config config) in D:\Projects\VintageStory\configlib\configlib\source\GUI\ConfigWindow.cs:line 391
+   at ConfigLib.ConfigWindow.DrawDomainTab(String domain) in D:\Projects\VintageStory\configlib\configlib\source\GUI\ConfigWindow.cs:line 336
+   at ConfigLib.ConfigWindow.DrawConfigList() in D:\Projects\VintageStory\configlib\configlib\source\GUI\ConfigWindow.cs:line 181
+   at ConfigLib.ConfigWindow.Draw() in D:\Projects\VintageStory\configlib\configlib\source\GUI\ConfigWindow.cs:line 91
+   at ConfigLib.GuiManager.Draw(Single deltaSeconds) in D:\Projects\VintageStory\configlib\configlib\source\GUI\GuiManager.cs:line 40
+   at VSImGui.DrawCallbacksManager.Draw(Single deltaSeconds) in D:\Projects\VintageStory\vsimgui\VSImGui\source\Integration\DrawCallbacksManager.cs:line 80
+   at VSImGui.VSImGuiDialog.Draw(Single deltaSeconds) in D:\Projects\VintageStory\vsimgui\VSImGui\source\Integration\Dialog.cs:line 126
+   at VSImGui.Controller.Update(Single deltaSeconds, Boolean captureInputs) in D:\Projects\VintageStory\vsimgui\VSImGui\source\Integration\Controller.cs:line 46
+   at VSImGui.OffWindowRenderer.OnRenderFrame(Single deltaTime, EnumRenderStage stage) in D:\Projects\VintageStory\vsimgui\VSImGui\source\Integration\Dialog.cs:line 156
+   at Vintagestory.Client.NoObf.ClientEventManager.TriggerRenderStage(EnumRenderStage stage, Single dt)
+   at Vintagestory.Client.NoObf.ClientMain.TriggerRenderStage(EnumRenderStage stage, Single dt)
+   at Vintagestory.Client.NoObf.ClientMain.RenderToDefaultFramebuffer(Single dt)
+   at Vintagestory.Client.ScreenManager.Render(Single dt)
+   at Vintagestory.Client.ScreenManager.OnNewFrame(Single dt)
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.window_RenderFrame(FrameEventArgs e)
+   at OpenTK.Windowing.Desktop.GameWindow.Run()
+   at Vintagestory.Client.ClientProgram.Start(ClientProgramArgs args, String[] rawArgs)
+   at Vintagestory.Client.ClientProgram.<>c__DisplayClass10_0.<.ctor>b__1()
+   at Vintagestory.ClientNative.CrashReporter.Start(ThreadStart start)

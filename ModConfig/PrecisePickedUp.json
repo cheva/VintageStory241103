@@ -1,0 +1,12 @@
+{
+  "PickupConditions": 0,
+  "CanAutoCollect": true,
+  "CanPlaceBlock": true,
+  "ShowItemDescription": true,
+  "AutoMerge": true,
+  "MergeRange": {
+    "X": 1.0,
+    "Y": 0.2
+  },
+  "MergeInterval": 5.0
+}

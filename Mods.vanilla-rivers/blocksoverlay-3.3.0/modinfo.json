@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "name": "Blocks overlay",
+  "modid": "blocksoverlay",
+  "description": "Overlay blocks and entities onto the HUD",
+  "authors": ["xel"],
+  "version": "3.3.0",
+  "side": "Client",
+  "dependencies": {
+    "game": "1.19.0"
+  }
+}

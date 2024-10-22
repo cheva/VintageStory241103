@@ -1,0 +1,17 @@
+Works with 50% 200% 256k width 156 height
+Mods installed:
+Auto Map Markers 4.0.0
+bags_0.1.21-a
+blocksoverlay-3.4.0
+buzzwords_1.7.0
+ExtraInfo-v1.8.1
+JuicyOres-v1.0.0
+localrespawns_1.0.7
+NotEnoughMapIcons-v1.1.0
+primitivesurvival_3.6.8
+rivers_3.2.0
+stepupcontinued_0.0.1
+vsimgui_1.1.6
+vtr_4.0.4
+
+
