@@ -83,8 +83,8 @@
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": 565,
-      "Y": 415
+      "X": 563,
+      "Y": 436
     },
     "playerstats": {
       "X": -360,
@@ -122,7 +122,7 @@
   "intSettings": {
     "fpHandsFoV": 75,
     "mipmapLevel": 3,
-    "musicFrequency": 2,
+    "musicFrequency": 0,
     "graphicsPresetId": 11,
     "webRequestTimeout": 10,
     "maxAnimatedElements": 230,
@@ -232,7 +232,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.31351933,
+    "sepiaLevel": 0.34607112,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
