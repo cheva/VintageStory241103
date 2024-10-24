@@ -83,8 +83,8 @@
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": 563,
-      "Y": 436
+      "X": 568,
+      "Y": 430
     },
     "playerstats": {
       "X": -360,
@@ -232,7 +232,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.34612387,
+    "sepiaLevel": 0.347875,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,

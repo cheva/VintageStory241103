@@ -2,6 +2,7 @@
   "Colors": {
     "statictranslocator": "#00d4ad"
   },
+  "ScanDelay": 20000,
   "MaxSearchRadius": 128,
   "MaxLabelRadius": 16,
   "CompactionDistance": null,
