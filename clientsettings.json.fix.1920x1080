@@ -91,12 +91,12 @@
       "Y": -84
     },
     "environment": {
-      "X": 5,
-      "Y": 804
+      "X": 8,
+      "Y": 801
     },
     "playercharacter": {
-      "X": -3,
-      "Y": 438
+      "X": -1,
+      "Y": 434
     }
   },
   "stringSettings": {
@@ -225,13 +225,13 @@
     "guiScale": 1.125,
     "fontSize": 1.0,
     "lodBias": 0.25,
-    "lodBiasFar": 0.87,
+    "lodBiasFar": 0.71,
     "blockAtlasSubPixelPadding": 0.01,
     "itemAtlasSubPixelPadding": 0.0,
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.35430852,
+    "sepiaLevel": 0.34122857,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
@@ -243,7 +243,7 @@
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
     "instabilityWavingStrength": 0.5,
-    "ssaa": 0.75,
+    "ssaa": 0.5,
     "megaScreenshotSizeMul": 2.0,
     "minbrightness": 0.1
   },
