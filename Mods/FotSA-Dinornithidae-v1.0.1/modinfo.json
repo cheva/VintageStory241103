@@ -1,0 +1,9 @@
+{
+  "type": "content",
+  "modid": "dinornithidae",
+  "name": "Fauna of the Stone Age: Dinornithiformes Plus",
+  "authors": [ "Tenth Architect" ],
+  "description": "A collection of Moa and other New Zealand flightless birds from the Holocene.",
+  "version": "1.0.1",
+  "side": "Universal"
+}

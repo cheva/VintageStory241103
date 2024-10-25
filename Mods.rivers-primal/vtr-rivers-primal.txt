@@ -1,4 +1,4 @@
-Works with 50% 200% 256k width 156 height
+Works with 50% 200% xy256k width 256h
 Mods installed:
 Auto Map Markers 4.0.0
 bags_0.1.21-a
@@ -13,5 +13,6 @@ rivers_3.2.0
 stepupcontinued_0.0.1
 vsimgui_1.1.6
 vtr_4.0.4
+
 
 

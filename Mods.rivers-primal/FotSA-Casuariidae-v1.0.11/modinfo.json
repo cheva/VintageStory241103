@@ -1,0 +1,9 @@
+{
+  "type": "content",
+  "modid": "casuariidae",
+  "name": "Fauna of the Stone Age: Casuariidae Plus",
+  "authors": [ "Tenth Architect" ],
+  "description": "A collection of Australian flightless birds from the Holocene.",
+  "version": "1.0.11",
+  "side": "Universal"
+}
