@@ -1,0 +1,11 @@
+{
+        "type": "Theme",
+        "modid": "m00ngrass",
+        "name": "m00n's Grass (retexture)",
+        "authors": [
+            "m00n"
+        ],
+        "description": "Retextured grass",
+        "side": "Client",
+        "version": "1.0.3"
+    }

@@ -1,0 +1,7 @@
+-1.0.0 all grass textures and overlays complete mod published
+
+-1.0.1 line added to json so mod correctly recognised as clintside so now works on servers
+
+-1.0.2 tweaked contrast levels on all grass for better uniformity
+
+-1.0.3 added a snowy grass retexture since i had missed it
