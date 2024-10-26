@@ -87,8 +87,8 @@
       "Y": 430
     },
     "playerstats": {
-      "X": -360,
-      "Y": -82
+      "X": -356,
+      "Y": -79
     },
     "environment": {
       "X": 5,
@@ -232,7 +232,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.37568054,
+    "sepiaLevel": 0.39573386,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
