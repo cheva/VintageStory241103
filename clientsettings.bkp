@@ -84,7 +84,7 @@
   "dialogPositions": {
     "inventory-backpack": {
       "X": 568,
-      "Y": 430
+      "Y": 434
     },
     "playerstats": {
       "X": -356,
@@ -232,7 +232,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.39573637,
+    "sepiaLevel": 0.38420963,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
@@ -250,7 +250,17 @@
   },
   "stringListSettings": {
     "multiplayerservers": [],
-    "disabledMods": [],
+    "disabledMods": [
+      "aged@1.0.4",
+      "caninae@1.0.19",
+      "capreolinae@1.1.8",
+      "casuariidae@1.0.11",
+      "dinornithidae@1.0.1",
+      "machairodontinae@1.0.12",
+      "pantherinae@1.1.12",
+      "rhinocerotidae@1.0.6",
+      "sirenia@1.0.8"
+    ],
     "dialogPositions": [],
     "modPaths": [
       "Mods",
