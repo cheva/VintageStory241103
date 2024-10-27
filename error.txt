@@ -1,0 +1,30 @@
+Game Version: v1.20.0-pre.6 (Unstable)
+27-Oct-24 20:27:34: Critical error occurred in the following mod: primitivesurvival@3.6.9
+Loaded Mods: bigbag@0.1.21-a, buzzwords@1.7.0, juicyores@1.0.0, m00ngrass@1.0.3, primitivesurvival@3.6.9, game@1.20.0-pre.6, vtr@4.0.4, egocaribautomapmarkers@4.0.0, blocksoverlay@4.0.0-pre.1, carryon@1.8.0-pre.1, danatweaks@3.3.0, extrainfo@1.8.1, localrespawns@1.0.7, nemi@1.1.0, rivers@3.2.0, stepupcontinued@0.0.1, creative@1.20.0-pre.6, vsimgui@1.1.6, survival@1.20.0-pre.6, wildgrass@1.0.0
+System.MissingMethodException: Method not found: 'Vintagestory.API.Common.AssetLocation Vintagestory.API.Common.AssetLocation.op_Implicit(System.String)'.
+   at PrimitiveSurvival.ModSystem.BlockTreeHollowPlaced.GetShape(ICoreClientAPI capi, String type, String shapename, ITesselatorAPI tesselator, Int32 altTexNumber)
+   at PrimitiveSurvival.ModSystem.BlockTreeHollowPlaced.GenMesh(ICoreClientAPI capi, String type, String shapename, ITesselatorAPI tesselator, Vec3f rotation, Int32 altTexNumber) in C:\net7repos\primitivesurvival\primitivesurvival\ModSystem\block\blocktreehollowplaced.cs:line 220
+   at PrimitiveSurvival.ModSystem.BlockTreeHollowPlaced.GenGuiMeshes(ICoreClientAPI capi) in C:\net7repos\primitivesurvival\primitivesurvival\ModSystem\block\blocktreehollowplaced.cs:line 195
+   at PrimitiveSurvival.ModSystem.BlockTreeHollowPlaced.<>c__DisplayClass20_0.<OnBeforeRender>b__0() in C:\net7repos\primitivesurvival\primitivesurvival\ModSystem\block\blocktreehollowplaced.cs:line 143
+   at Vintagestory.API.Util.ObjectCacheUtil.GetOrCreate[T](ICoreAPI api, String key, CreateCachableObjectDelegate`1 onRequireCreate) in VintagestoryApi\Util\ObjectCacheUtil.cs:line 30
+   at PrimitiveSurvival.ModSystem.BlockTreeHollowPlaced.OnBeforeRender(ICoreClientAPI capi, ItemStack itemstack, EnumItemRenderTarget target, ItemRenderInfo& renderinfo) in C:\net7repos\primitivesurvival\primitivesurvival\ModSystem\block\blocktreehollowplaced.cs:line 141
+   at Vintagestory.Client.NoObf.InventoryItemRenderer.GetItemStackRenderInfo(ClientMain game, ItemSlot inSlot, EnumItemRenderTarget target, Single dt)
+   at Vintagestory.Client.NoObf.InventoryItemRenderer.RenderItemstackToGui(ItemSlot inSlot, Double posX, Double posY, Double posZ, Single size, Int32 color, Single dt, Boolean shading, Boolean origRotate, Boolean showStackSize)
+   at Vintagestory.Client.NoObf.RenderAPIGame.RenderItemstackToGui(ItemSlot inSlot, Double posX, Double posY, Double posZ, Single size, Int32 color, Boolean shading, Boolean rotate, Boolean showStacksize)
+   at Vintagestory.API.Common.CollectibleObject.OnHandbookRecipeRender(ICoreClientAPI capi, GridRecipe recipe, ItemSlot slot, Double x, Double y, Double z, Double size) in VintagestoryApi\Common\Collectible\Collectible.cs:line 2053
+   at Vintagestory.API.Client.SlideshowGridRecipeTextComponent.RenderInteractiveElements(Single deltaTime, Double renderX, Double renderY, Double renderZ) in VintagestoryApi\Client\UI\Elements\Impl\Interactive\Text\Richtext\SlideshowGridRecipeTextComponent.cs:line 278
+   at Vintagestory.API.Client.GuiElementRichtext.RenderInteractiveElements(Single deltaTime) in VintagestoryApi\Client\UI\Elements\Impl\Interactive\Text\GuiElementRichtext.cs:line 484
+   at Vintagestory.API.Client.GuiComposer.Render(Single deltaTime) in VintagestoryApi\Client\UI\GuiComposer.cs:line 718
+   at Vintagestory.API.Client.GuiDialog.OnRenderGUI(Single deltaTime) in VintagestoryApi\Client\UI\Dialog\GuiDialog.cs:line 389
+   at Vintagestory.GameContent.GuiDialogHandbook.OnRenderGUI(Single deltaTime)
+   at Vintagestory.Client.NoObf.GuiManager.OnRenderFrameGUI(Single deltaTime)
+   at Vintagestory.Client.NoObf.ClientEventManager.TriggerRenderStage(EnumRenderStage stage, Single dt)
+   at Vintagestory.Client.NoObf.ClientMain.TriggerRenderStage(EnumRenderStage stage, Single dt)
+   at Vintagestory.Client.NoObf.ClientMain.RenderToDefaultFramebuffer(Single dt)
+   at Vintagestory.Client.ScreenManager.Render(Single dt)
+   at Vintagestory.Client.ScreenManager.OnNewFrame(Single dt)
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.window_RenderFrame(FrameEventArgs e)
+   at OpenTK.Windowing.Desktop.GameWindow.Run()
+   at Vintagestory.Client.ClientProgram.Start(ClientProgramArgs args, String[] rawArgs)
+   at Vintagestory.Client.ClientProgram.<>c__DisplayClass10_0.<.ctor>b__1()
+   at Vintagestory.ClientNative.CrashReporter.Start(ThreadStart start)

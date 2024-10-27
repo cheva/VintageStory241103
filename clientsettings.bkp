@@ -122,7 +122,7 @@
   "intSettings": {
     "fpHandsFoV": 75,
     "mipmapLevel": 3,
-    "musicFrequency": 0,
+    "musicFrequency": 2,
     "graphicsPresetId": 11,
     "webRequestTimeout": 10,
     "maxAnimatedElements": 230,
@@ -232,7 +232,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.38420963,
+    "sepiaLevel": 0.39818808,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
