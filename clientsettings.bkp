@@ -97,6 +97,10 @@
     "playercharacter": {
       "X": -3,
       "Y": 438
+    },
+    "blockentitystove511467, 115, 512801": {
+      "X": 284,
+      "Y": 253
     }
   },
   "stringSettings": {
