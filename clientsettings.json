@@ -97,10 +97,6 @@
     "playercharacter": {
       "X": -3,
       "Y": 438
-    },
-    "blockentitystove511467, 115, 512801": {
-      "X": 284,
-      "Y": 253
     }
   },
   "stringSettings": {
@@ -236,7 +232,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.39999995,
+    "sepiaLevel": 0.39999467,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
