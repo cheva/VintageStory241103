@@ -22,7 +22,7 @@
   "MapSizeZ": 256000,
   "ServerLanguage": "ru",
   "MaxChunkRadius": 12,
-  "TickTime": 11.111111,
+  "TickTime": 99.999999,
   "SpawnCapPlayerScaling": 0.5,
   "BlockTickChunkRange": 5,
   "MaxMainThreadBlockTicks": 10000,
