@@ -79,6 +79,14 @@
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
+    },
+    "timeswitch": {
+      "KeyCode": 107,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
     }
   },
   "dialogPositions": {
@@ -232,7 +240,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.39999467,
+    "sepiaLevel": 0.39999995,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,

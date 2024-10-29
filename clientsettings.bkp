@@ -79,6 +79,14 @@
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
+    },
+    "timeswitch": {
+      "KeyCode": 107,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
     }
   },
   "dialogPositions": {
@@ -145,8 +153,8 @@
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 50,
     "musicLevel": 10,
-    "screenWidth": 1280,
-    "screenHeight": 720,
+    "screenWidth": 1366,
+    "screenHeight": 768,
     "gameWindowMode": 1,
     "rightDialogMargin": 0,
     "leftDialogMargin": 0,
@@ -232,7 +240,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.39998537,
+    "sepiaLevel": 0.39999992,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
