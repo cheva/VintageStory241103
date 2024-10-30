@@ -124,7 +124,7 @@
     "audioDevice": null,
     "playeruid": "1234567890",
     "playername": "Dee",
-    "lastSkinSelection": "baseskin:skin5,eyecolor:midnight,underwear:leotard,voicetype:harmonica,voicepitch:verylow,hairbase:afro,hairextra:braidedup,facialexpression:sad,mustache:none,beard:none,haircolor:slategray",
+    "lastSkinSelection": "baseskin:skin5,eyecolor:midnight,underwear:leotard,voicetype:tuba,voicepitch:verylow,hairbase:dreadlocks,hairextra:vikingtopbraid,facialexpression:sad,mustache:mst-walrus30-fat,beard:brd-braid10-double,haircolor:silverchalice",
     "currentHandbookCategoryCode": "stack"
   },
   "intSettings": {
@@ -240,7 +240,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.39999995,
+    "sepiaLevel": 0.36459303,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
