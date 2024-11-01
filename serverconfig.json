@@ -17,13 +17,13 @@
   "ClientConnectionTimeout": 150,
   "EntityDebugMode": false,
   "Password": null,
-  "MapSizeX": 1024000,
-  "MapSizeY": 256,
-  "MapSizeZ": 1024000,
+  "MapSizeX": 256000,
+  "MapSizeY": 320,
+  "MapSizeZ": 256000,
   "ServerLanguage": "ru",
-  "MaxChunkRadius": 12,
+  "MaxChunkRadius": 8,
   "TickTime": 33.333332,
-  "SpawnCapPlayerScaling": 0.5,
+  "SpawnCapPlayerScaling": 0.25,
   "BlockTickChunkRange": 5,
   "MaxMainThreadBlockTicks": 10000,
   "RandomBlockTicksPerChunk": 16,
@@ -331,8 +331,8 @@
   "AntiAbuse": 0,
   "WorldConfig": {
     "Seed": "",
-    "SaveFileLocation": "C:\\Users\\dmytr\\AppData\\Roaming\\VintagestoryData\\Saves\\stairs 1m 50-max.vcdbs",
-    "WorldName": "Stairs 1m 50%-max",
+    "SaveFileLocation": "C:\\Users\\dmytr\\AppData\\Roaming\\VintagestoryData\\Saves\\rivers 320h 100k 80-160.vcdbs",
+    "WorldName": "rivers 320h 100k 80-160",
     "AllowCreativeMode": true,
     "PlayStyle": "surviveandbuild",
     "PlayStyleLangCode": "preset-surviveandbuild",
@@ -429,5 +429,5 @@
   "LogBlockBreakPlace": false,
   "LogFileSplitAfterLine": 500000,
   "DieAboveErrorCount": 100000,
-  "DieAboveMemoryUsageMb": 50000
+  "DieAboveMemoryUsageMb": 500000
 }
