@@ -1,0 +1,788 @@
+commit ca6928a083aec1ca44b60672328bdd10e0d77423
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Nov 1 19:10:45 2024 +0200
+
+    In the Ruined Town
+
+M	Maps/dcd12cb7-3a53-42b5-9cfe-d534f974d92b.db
+M	Saves/rivers 320h 100k 80-160.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit 0d805eac7c464e0a2229a6988a6127425f13a3b3
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Nov 1 17:56:01 2024 +0200
+
+    Need Copper
+
+M	Maps/dcd12cb7-3a53-42b5-9cfe-d534f974d92b.db
+M	Saves/rivers 320h 100k 80-160.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit dde0b2de064f6b75bb0b2d57bc7ea27ffd1d75b1
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Nov 1 00:22:41 2024 +0200
+
+    Discover NE
+
+M	Maps/dcd12cb7-3a53-42b5-9cfe-d534f974d92b.db
+M	Saves/rivers 320h 100k 80-160.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+
+commit 257b1475c5b13dea588ebf9c8ea0ecfcafa8ba5a
+Author: Dee <dee.covan@gmail.com>
+Date:   Thu Oct 31 08:40:16 2024 +0200
+
+    up
+
+M	Maps/dcd12cb7-3a53-42b5-9cfe-d534f974d92b.db
+M	clientsettings.bkp
+M	clientsettings.json
+
+commit a274893eaf49bf1059511ff8285828869a67a831
+Author: Dee <dee.covan@gmail.com>
+Date:   Wed Oct 30 23:40:36 2024 +0200
+
+    New again Rivers VTR world 320h 100k
+
+A	Maps/dcd12cb7-3a53-42b5-9cfe-d534f974d92b.db
+A	Saves/rivers 320h 100k 80-160.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+M	serverconfig.json
+
+commit 0e7e88de750c0835ffaa668bedec9aa22336f6f8
+Author: Dee <dee.covan@gmail.com>
+Date:   Wed Oct 30 23:27:27 2024 +0200
+
+    Delete fckn save
+
+D	Saves/rivers vtr 320h 100k 30days.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit 488cf6614e3dadf5f9d19755c00fb7cb7153887c
+Author: Dee <dee.covan@gmail.com>
+Date:   Wed Oct 30 23:14:00 2024 +0200
+
+    Found good place Discovered rounds
+
+M	Maps/0f7db2b4-e12b-4b91-b3a7-ccf0ac710e0d.db
+M	Saves/rivers vtr 320h 100k 30days.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+M	clientsettings.json.fix.1366x768
+
+commit a117f9dcc6f1e2401ac6579e774399968fc67fb6
+Author: Dee <dee.covan@gmail.com>
+Date:   Wed Oct 30 22:58:00 2024 +0200
+
+    First Death Going West First Evening
+
+A	Maps/0f7db2b4-e12b-4b91-b3a7-ccf0ac710e0d.db
+M	Saves/rivers vtr 320h 100k 30days.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+
+commit 22ccee44277a2136092317291f279314965f88b1
+Author: Dee <dee.covan@gmail.com>
+Date:   Wed Oct 30 22:29:10 2024 +0200
+
+    New Rivers VTR world 320h 100k 30 days more
+
+A	Saves/rivers vtr 320h 100k 30days.vcdbs.7z
+M	serverconfig.json
+
+commit 56b57f4e386d80bb0f661b501566a878fa2ce060
+Author: Dee <dee.covan@gmail.com>
+Date:   Wed Oct 30 02:39:36 2024 +0200
+
+    One more house on NE 204mb 46mb/7z
+
+M	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+M	Saves/vtr promitive rivers 50-200-0-200.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1366x768
+
+commit 591398ee979acc316062ea1da80a3c1cb79f5336
+Author: Dee <dee.covan@gmail.com>
+Date:   Wed Oct 30 00:47:52 2024 +0200
+
+    serverconfig.tick.99.size.256k.json
+
+M	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1366x768
+R099	serverconfig.tick.11.size.256k.json	serverconfig.tick.99.size.256k.json
+
+commit 62b662915e4352d3fc89d78325b096cd8a998d97
+Author: Dee <dee.covan@gmail.com>
+Date:   Wed Oct 30 00:12:44 2024 +0200
+
+    serverconfig.tick.11.size.256k.json
+
+M	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1366x768
+M	serverconfig.json
+A	serverconfig.tick.11.size.256k.json
+
+commit 221b661b1ccca71641772bfa8bf2d2f77743987f
+Author: Dee <dee.covan@gmail.com>
+Date:   Tue Oct 29 23:36:32 2024 +0200
+
+    Add x1366 settings clientsettings.json.fix.1366x768 and run1366.bat
+
+A	clientsettings.json.fix.1366x768
+A	run1366.bat
+
+commit 892162a4534ff3fd50802829fe682c3be8a1d657
+Author: Dee <dee.covan@gmail.com>
+Date:   Tue Oct 29 17:20:23 2024 +0200
+
+    Discover NE found more Copper
+
+M	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+M	Saves/vtr promitive rivers 50-200-0-200.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit 24f183bb83a510e8db3482392d6580f13ed0dadc
+Author: Dee <dee.covan@gmail.com>
+Date:   Tue Oct 29 08:30:32 2024 +0200
+
+    !!!Not saved
+
+M	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+M	Saves/vtr promitive rivers 50-200-0-200.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+
+commit 830e528b1d2c7d6654cb7c6daa24e77c97920301
+Author: Dee <dee.covan@gmail.com>
+Date:   Mon Oct 28 19:44:03 2024 +0200
+
+    up
+
+M	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit ccf4f25f27cd93a1cb2cde697f8a603913b6e067
+Author: Dee <dee.covan@gmail.com>
+Date:   Mon Oct 28 17:05:30 2024 +0200
+
+    West is Ocean
+
+M	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+A	ModConfig/LevelUP/config/base.json
+A	ModConfig/LevelUP/config/classexp/blackguardclass.json
+A	ModConfig/LevelUP/config/classexp/clockmakerclass.json
+A	ModConfig/LevelUP/config/classexp/commonerclass.json
+A	ModConfig/LevelUP/config/classexp/hunterclass.json
+A	ModConfig/LevelUP/config/classexp/malefactorclass.json
+A	ModConfig/LevelUP/config/classexp/tailorclass.json
+A	ModConfig/LevelUP/config/entityexp/axe.json
+A	ModConfig/LevelUP/config/entityexp/bow.json
+A	ModConfig/LevelUP/config/entityexp/hammer.json
+A	ModConfig/LevelUP/config/entityexp/hand.json
+A	ModConfig/LevelUP/config/entityexp/knife.json
+A	ModConfig/LevelUP/config/entityexp/pickaxe.json
+A	ModConfig/LevelUP/config/entityexp/shovel.json
+A	ModConfig/LevelUP/config/entityexp/spear.json
+A	ModConfig/LevelUP/config/entityexp/sword.json
+A	ModConfig/LevelUP/config/levelstats/axe.json
+A	ModConfig/LevelUP/config/levelstats/bow.json
+A	ModConfig/LevelUP/config/levelstats/brigandinearmor.json
+A	ModConfig/LevelUP/config/levelstats/brigandinearmoritems.json
+A	ModConfig/LevelUP/config/levelstats/chainarmor.json
+A	ModConfig/LevelUP/config/levelstats/chainarmoritems.json
+A	ModConfig/LevelUP/config/levelstats/cooking.json
+A	ModConfig/LevelUP/config/levelstats/cookingpots.json
+A	ModConfig/LevelUP/config/levelstats/cookingsingles.json
+A	ModConfig/LevelUP/config/levelstats/farming.json
+A	ModConfig/LevelUP/config/levelstats/farmingcrops.json
+A	ModConfig/LevelUP/config/levelstats/hammer.json
+A	ModConfig/LevelUP/config/levelstats/hammersmiths.json
+A	ModConfig/LevelUP/config/levelstats/hand.json
+A	ModConfig/LevelUP/config/levelstats/hunter.json
+A	ModConfig/LevelUP/config/levelstats/knife.json
+A	ModConfig/LevelUP/config/levelstats/leatherarmor.json
+A	ModConfig/LevelUP/config/levelstats/leatherarmoritems.json
+A	ModConfig/LevelUP/config/levelstats/panning.json
+A	ModConfig/LevelUP/config/levelstats/pickaxe.json
+A	ModConfig/LevelUP/config/levelstats/pickaxesores.json
+A	ModConfig/LevelUP/config/levelstats/platearmor.json
+A	ModConfig/LevelUP/config/levelstats/platearmoritems.json
+A	ModConfig/LevelUP/config/levelstats/scalearmor.json
+A	ModConfig/LevelUP/config/levelstats/scalearmoritems.json
+A	ModConfig/LevelUP/config/levelstats/shield.json
+A	ModConfig/LevelUP/config/levelstats/shovel.json
+A	ModConfig/LevelUP/config/levelstats/spear.json
+A	ModConfig/LevelUP/config/levelstats/sword.json
+A	ModConfig/LevelUP/config/levelstats/vitality.json
+A	Mods.rivers-primal/levelup_1.3.0/LevelUP.deps.json
+A	Mods.rivers-primal/levelup_1.3.0/LevelUP.pdb
+A	Mods.rivers-primal/levelup_1.3.0/modinfo.json
+A	Mods/levelup_1.3.0/LevelUP.deps.json
+A	Mods/levelup_1.3.0/LevelUP.pdb
+A	Mods/levelup_1.3.0/modinfo.json
+M	Saves/vtr promitive rivers 50-200-0-200.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit 907017fa95ad0501d5868c71d303029c2605af2b
+Author: Dee <dee.covan@gmail.com>
+Date:   Mon Oct 28 07:33:02 2024 +0200
+
+    up
+
+M	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit e5e9ac93299ba854b24c5d6d1e7d58ec855b3bac
+Author: Dee <dee.covan@gmail.com>
+Date:   Sun Oct 27 22:15:15 2024 +0200
+
+    Ready for Copper
+
+M	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+M	Saves/vtr promitive rivers 50-200-0-200.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+A	error.txt
+
+commit 28763bb371a072717b4ea3b98d6dea6abb522d10
+Author: Dee <dee.covan@gmail.com>
+Date:   Sun Oct 27 03:04:38 2024 +0300
+
+    East trip Amazonka found
+
+M	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+M	Saves/vtr promitive rivers 50-200-0-200.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit 7201bb1105364a12ebbb68064911084f69d32db3
+Author: Dee <dee.covan@gmail.com>
+Date:   Sat Oct 26 21:43:48 2024 +0300
+
+    Tree house is ok
+
+M	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+M	Saves/vtr promitive rivers 50-200-0-200.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+M	clientsettings.json.fix.1920x1080
+
+commit bd6f00748056c34ec3afd3b3720a3c8cfdd74f30
+Author: Dee <dee.covan@gmail.com>
+Date:   Sat Oct 26 20:20:58 2024 +0300
+
+    Dead again
+
+M	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+M	Saves/vtr promitive rivers 50-200-0-200.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1920x1080
+
+commit 09c61e1776ad59d2e379d96bc6dde85cdc70cb76
+Author: Dee <dee.covan@gmail.com>
+Date:   Sat Oct 26 13:12:29 2024 +0300
+
+    merged theirs
+
+A	Maps/d009cb10-2ffc-487b-a75d-7b7723691c62.db
+A	Saves/vtr promitive rivers 50-200-0-200.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1920x1080
+
+commit 690b4e3507809091f6fd0ec03f02b20ba36d6494
+Author: Dee <dee.covan@gmail.com>
+Date:   Sat Oct 26 12:57:18 2024 +0300
+
+    Settings 50%/200%/0%/200%
+
+M	Mods.rivers-primal/vtr-rivers-primal.txt
+D	Mods.vanilla-rivers/Auto Map Markers 4.0.0/automapmarkers.pdb
+D	Mods.vanilla-rivers/Auto Map Markers 4.0.0/modinfo.json
+D	Mods.vanilla-rivers/ExtraInfo-v1.8.1/ExtraInfo.deps.json
+D	Mods.vanilla-rivers/ExtraInfo-v1.8.1/ExtraInfo.pdb
+D	Mods.vanilla-rivers/ExtraInfo-v1.8.1/LICENSE
+D	Mods.vanilla-rivers/ExtraInfo-v1.8.1/modinfo.json
+D	Mods.vanilla-rivers/JuicyOres-v1.0.0/modinfo.json
+D	Mods.vanilla-rivers/NotEnoughMapIcons-v1.1.0/credits.txt
+D	Mods.vanilla-rivers/NotEnoughMapIcons-v1.1.0/modinfo.json
+D	Mods.vanilla-rivers/Plainsandvalleys-v1.0.6/modinfo.json
+D	Mods.vanilla-rivers/bags_0.1.21-a
+D	Mods.vanilla-rivers/blocksoverlay-3.3.0/modinfo.json
+D	Mods.vanilla-rivers/buzzwords_1.7.0/buzzwords.deps.json
+D	Mods.vanilla-rivers/buzzwords_1.7.0/buzzwords.pdb
+D	Mods.vanilla-rivers/buzzwords_1.7.0/modinfo.json
+D	Mods.vanilla-rivers/localrespawns_1.0.7/LocalRespawns.deps.json
+D	Mods.vanilla-rivers/localrespawns_1.0.7/LocalRespawns.pdb
+D	Mods.vanilla-rivers/localrespawns_1.0.7/modinfo.json
+D	Mods.vanilla-rivers/plains-and-rivers.txt
+D	Mods.vanilla-rivers/precisepickedup_1.0.2/PrecisePickedUp.deps.json
+D	Mods.vanilla-rivers/precisepickedup_1.0.2/PrecisePickedUp.pdb
+D	Mods.vanilla-rivers/precisepickedup_1.0.2/modinfo.json
+D	Mods.vanilla-rivers/rivers_3.2.0/Rivers.deps.json
+D	Mods.vanilla-rivers/rivers_3.2.0/Rivers.pdb
+D	Mods.vanilla-rivers/rivers_3.2.0/modinfo.json
+D	Mods.vanilla-rivers/stepupcontinued_0.0.1/modinfo.json
+D	Mods.vanilla-rivers/stepupcontinued_0.0.1/stepupcontinued.deps.json
+D	Mods.vanilla-rivers/stepupcontinued_0.0.1/stepupcontinued.pdb
+D	Mods.vanilla-rivers/vsimgui_1.1.6/ImGui.NET.xml
+D	Mods.vanilla-rivers/vsimgui_1.1.6/ImGuiController_OpenTK.dll.config
+D	Mods.vanilla-rivers/vsimgui_1.1.6/ImGuiController_OpenTK.pdb
+D	Mods.vanilla-rivers/vsimgui_1.1.6/ImGuizmo.NET.xml
+D	Mods.vanilla-rivers/vsimgui_1.1.6/ImNodes.NET.xml
+D	Mods.vanilla-rivers/vsimgui_1.1.6/ImPlot.NET.xml
+D	Mods.vanilla-rivers/vsimgui_1.1.6/VSImGui.deps.json
+D	Mods.vanilla-rivers/vsimgui_1.1.6/VSImGui.pdb
+D	Mods.vanilla-rivers/vsimgui_1.1.6/VSImGui.xml
+D	Mods.vanilla-rivers/vsimgui_1.1.6/modinfo.json
+D	Mods.vanilla-rivers/vsimgui_1.1.6/native/linux/cimgui.so
+D	Mods.vanilla-rivers/vsimgui_1.1.6/native/linux/cimguizmo.so
+D	Mods.vanilla-rivers/vsimgui_1.1.6/native/linux/cimnodes.so
+D	Mods.vanilla-rivers/vsimgui_1.1.6/native/linux/cimplot.so
+D	Mods.vanilla-rivers/vsimgui_1.1.6/native/mac/cimgui.dylib
+D	Mods.vanilla-rivers/vsimgui_1.1.6/native/mac/cimguizmo.dylib
+D	Mods.vanilla-rivers/vsimgui_1.1.6/native/mac/cimnodes.dylib
+D	Mods.vanilla-rivers/vsimgui_1.1.6/native/mac/cimplot.dylib
+M	Mods/vtr-rivers-primal.txt
+M	clientsettings.bkp
+M	clientsettings.json
+M	serverconfig.json
+
+commit 96532f8e834f13de27cc5da1ce7cc9ce5f734858
+Author: Dee <dee.covan@gmail.com>
+Date:   Sat Oct 26 12:53:35 2024 +0300
+
+    Update mods vtr-rivers-primal.txt
+
+M	Mods.rivers-primal/vtr-rivers-primal.txt
+M	Mods/vtr-rivers-primal.txt
+
+commit 3c11f07c7c85b3eeffd8c6934d175ea9247804a5
+Author: Dee <dee.covan@gmail.com>
+Date:   Sat Oct 26 12:51:59 2024 +0300
+
+    Add Grass mods
+
+A	Mods.rivers-primal/m00ns_grass_1.0.3/changelog.txt
+A	Mods.rivers-primal/m00ns_grass_1.0.3/modinfo.json
+A	Mods.rivers-primal/wildgrass_1.0.0/modinfo.json
+A	Mods.rivers-primal/wildgrass_1.0.0/wildgrass.deps.json
+A	Mods.rivers-primal/wildgrass_1.0.0/wildgrass.pdb
+A	Mods/m00ns_grass_1.0.3/changelog.txt
+A	Mods/m00ns_grass_1.0.3/modinfo.json
+A	Mods/wildgrass_1.0.0/modinfo.json
+A	Mods/wildgrass_1.0.0/wildgrass.deps.json
+A	Mods/wildgrass_1.0.0/wildgrass.pdb
+
+commit fc08a6aa58688107bf646ffcfeff3ce0e251c19f
+Author: Dee <dee.covan@gmail.com>
+Date:   Sat Oct 26 02:14:32 2024 +0300
+
+    Discovery
+
+M	Maps/5cff9e9b-5fb8-4bfb-9601-3d68dc30bd31.db
+M	Saves/stairs 1m 50-max.vcdbs.7z
+D	client-crash.log.txt
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+M	clientsettings.json.fix.1920x1080
+
+commit dfff86a81dfea962813568add2a725dc90295935
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Oct 25 16:16:06 2024 +0300
+
+    Remove Configlib it crashed again
+
+A	ModConfig/DanaTweaks-Client.json
+A	ModConfig/DanaTweaks-Server.json
+D	Mods.rivers-primal/configlib_1.3.17/configlib.deps.json
+D	Mods.rivers-primal/configlib_1.3.17/configlib.pdb
+D	Mods.rivers-primal/configlib_1.3.17/modinfo.json
+D	Mods/configlib_1.3.17/configlib.deps.json
+D	Mods/configlib_1.3.17/configlib.pdb
+D	Mods/configlib_1.3.17/modinfo.json
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1920x1080
+
+commit 122c6deb99fda90b7239cca2b6c587592b9a5259
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Oct 25 15:58:34 2024 +0300
+
+    Renew mods
+
+A	Mods.rivers-primal/Aged1.0.4/modinfo.json
+A	Mods.rivers-primal/DanaTweaks-v3.3.0/DanaTweaks.deps.json
+A	Mods.rivers-primal/DanaTweaks-v3.3.0/DanaTweaks.pdb
+A	Mods.rivers-primal/DanaTweaks-v3.3.0/LICENSE
+A	Mods.rivers-primal/DanaTweaks-v3.3.0/modinfo.json
+A	Mods.rivers-primal/FotSA-Caninae-v1.0.19/modinfo.json
+A	Mods.rivers-primal/FotSA-Capreolinae-v1.1.8/modinfo.json
+A	Mods.rivers-primal/FotSA-Casuariidae-v1.0.11/modinfo.json
+A	Mods.rivers-primal/FotSA-Dinornithidae-v1.0.1/modinfo.json
+A	Mods.rivers-primal/FotSA-Machairodontinae-v1.0.12/modinfo.json
+A	Mods.rivers-primal/FotSA-Pantherinae-v1.1.12/modinfo.json
+A	Mods.rivers-primal/FotSA-Rhinocerotidae-v1.0.6/modinfo.json
+A	Mods.rivers-primal/FotSA-Sirenia-v1.0.8/modinfo.json
+R093	Mods.rivers-primal/primitivesurvival_3.6.8/modinfo.json	Mods.rivers-primal/primitivesurvival_3.6.9/modinfo.json
+R100	Mods.rivers-primal/primitivesurvival_3.6.8/primitivesurvival.deps.json	Mods.rivers-primal/primitivesurvival_3.6.9/primitivesurvival.deps.json
+R097	Mods.rivers-primal/primitivesurvival_3.6.8/primitivesurvival.pdb	Mods.rivers-primal/primitivesurvival_3.6.9/primitivesurvival.pdb
+M	Mods.rivers-primal/vtr-rivers-primal.txt
+A	Mods/Aged1.0.4/modinfo.json
+A	Mods/DanaTweaks-v3.3.0/DanaTweaks.deps.json
+A	Mods/DanaTweaks-v3.3.0/DanaTweaks.pdb
+A	Mods/DanaTweaks-v3.3.0/LICENSE
+A	Mods/DanaTweaks-v3.3.0/modinfo.json
+A	Mods/FotSA-Caninae-v1.0.19/modinfo.json
+A	Mods/FotSA-Capreolinae-v1.1.8/modinfo.json
+A	Mods/FotSA-Casuariidae-v1.0.11/modinfo.json
+A	Mods/FotSA-Dinornithidae-v1.0.1/modinfo.json
+A	Mods/FotSA-Machairodontinae-v1.0.12/modinfo.json
+A	Mods/FotSA-Pantherinae-v1.1.12/modinfo.json
+A	Mods/FotSA-Rhinocerotidae-v1.0.6/modinfo.json
+A	Mods/FotSA-Sirenia-v1.0.8/modinfo.json
+R093	Mods/primitivesurvival_3.6.8/modinfo.json	Mods/primitivesurvival_3.6.9/modinfo.json
+R100	Mods/primitivesurvival_3.6.8/primitivesurvival.deps.json	Mods/primitivesurvival_3.6.9/primitivesurvival.deps.json
+R097	Mods/primitivesurvival_3.6.8/primitivesurvival.pdb	Mods/primitivesurvival_3.6.9/primitivesurvival.pdb
+M	Mods/vtr-rivers-primal.txt
+
+commit 8c720bdaf4d3a92680fd187586d7d4eb0b1a8c07
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Oct 25 15:55:44 2024 +0300
+
+    up
+
+M	clientsettings.bkp
+M	clientsettings.json
+
+commit 727a9d168187ead16cba4e5b8b393fa50f845749
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Oct 25 01:35:13 2024 +0300
+
+    Discover North
+
+M	Maps/5cff9e9b-5fb8-4bfb-9601-3d68dc30bd31.db
+M	Saves/stairs 1m 50-max.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit 952e373ed2e33f1ffb5a5f5eec220ccf9f32a429
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Oct 25 00:22:58 2024 +0300
+
+    Update README.MD
+
+M	README.MD
+
+commit 2df430ddd1ee3d7b96f0a4b68e3a02e33e5b48ef
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Oct 25 00:22:10 2024 +0300
+
+    Clean up
+
+M	clientsettings.bkp
+M	clientsettings.json.fix.1280x720
+
+commit b2008ff0f359423a184af88c4070bc5f1d75f41f
+Author: Dee <dee.covan@gmail.com>
+Date:   Fri Oct 25 00:19:47 2024 +0300
+
+    Copper Age
+
+M	Maps/5cff9e9b-5fb8-4bfb-9601-3d68dc30bd31.db
+M	ModConfig/blocksoverlay.json
+R089	Mods.rivers-primal/blocksoverlay-3.4.0/modinfo.json	Mods.rivers-primal/blockoverlay-4.0.0-pre.1/modinfo.json
+A	Mods.rivers-primal/configlib_1.3.17/configlib.deps.json
+A	Mods.rivers-primal/configlib_1.3.17/configlib.pdb
+A	Mods.rivers-primal/configlib_1.3.17/modinfo.json
+R089	Mods/blocksoverlay-3.4.0/modinfo.json	Mods/blockoverlay-4.0.0-pre.1/modinfo.json
+A	Mods/configlib_1.3.17/configlib.deps.json
+A	Mods/configlib_1.3.17/configlib.pdb
+A	Mods/configlib_1.3.17/modinfo.json
+M	Saves/stairs 1m 50-max.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1920x1080
+
+commit 29c9d6ad22c6cc92a9c71f99d788a34c33a32540
+Author: Dee <dee.covan@gmail.com>
+Date:   Thu Oct 24 09:01:40 2024 +0300
+
+    Move to New location
+
+M	Maps/5cff9e9b-5fb8-4bfb-9601-3d68dc30bd31.db
+M	Saves/stairs 1m 50-max.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit e28092dab11963602e421365f3a9877576f2bd0e
+Author: Dee <dee.covan@gmail.com>
+Date:   Wed Oct 23 23:31:08 2024 +0300
+
+    Found new good? place on the East
+
+M	Maps/5cff9e9b-5fb8-4bfb-9601-3d68dc30bd31.db
+M	Saves/stairs 1m 50-max.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit 024113494ea6f35b8ef3ec879dd470b46f1da091
+Author: Dee <dee.covan@gmail.com>
+Date:   Tue Oct 22 22:54:37 2024 +0300
+
+    Need Torf Go East
+
+M	Maps/5cff9e9b-5fb8-4bfb-9601-3d68dc30bd31.db
+M	Saves/stairs 1m 50-max.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit 9bf17c5365d69390e40b7b7ed1210cc1b88d6cc4
+Author: Dee <dee.covan@gmail.com>
+Date:   Tue Oct 22 21:15:54 2024 +0300
+
+    Died. Day 1 first house.
+
+M	Maps/5cff9e9b-5fb8-4bfb-9601-3d68dc30bd31.db
+M	Saves/stairs 1m 50-max.vcdbs.7z
+M	clientsettings.bkp
+M	clientsettings.json
+M	clientsettings.json.fix.1280x720
+
+commit 7734d753e432bd25b221a4c5debd2835aaaeaafc
+Author: Dee <dee.covan@gmail.com>
+Date:   Tue Oct 22 20:14:43 2024 +0300
+
+    Start new Stairs 1m 50-to-max 1m VTR Primitive Rivers
+
+A	Saves/stairs 1m 50-max.vcdbs.7z
+
+commit d60d7d85b56aece378bb9665ff1adfe203f0dbb1
+Author: Dee <dee.covan@gmail.com>
+Date:   Tue Oct 22 20:13:18 2024 +0300
+
+    Add README.MD
+
+A	.gitignore
+A	.gitmodules
+A	1.20.0-pre.6
+A	Maps/46ac1d67-7a91-4133-986c-2d716be4739d.db
+A	Maps/5bb789bc-c0fe-4530-9090-4a0bb2520460.db
+A	Maps/5cff9e9b-5fb8-4bfb-9601-3d68dc30bd31.db
+A	Maps/7fa48aca-ede6-4bfe-993d-f34322bb632e.db
+A	Maps/b770136a-cb29-4ecc-9a78-2898ad013305.db
+A	Maps/e76be199-0150-4ba2-81fa-5da46f5278cc.db
+A	ModConfig/CarryOnClientConfig.json
+A	ModConfig/CarryOnConfig.json
+A	ModConfig/FendragonBCSConfig.json
+A	ModConfig/PrecisePickedUp.json
+A	ModConfig/auto_map_markers_config.json
+A	ModConfig/blocksoverlay.json
+A	ModConfig/buzzwords.json
+A	ModConfig/imgui.ini
+A	ModConfig/primitivesurvival119.json
+A	ModConfig/rhinocerotidae.yaml
+A	ModConfig/rivers.json
+A	ModConfig/sortablestorage.json
+A	ModConfig/zoombutton119.json
+A	ModData/blocksoverlay/searchgroups.json
+A	Mods.rivers-primal/Auto Map Markers 4.0.0/automapmarkers.pdb
+A	Mods.rivers-primal/Auto Map Markers 4.0.0/modinfo.json
+A	Mods.rivers-primal/CarryOn-1.20.0-pre_v1.8.0-pre.1/CarryOn.deps.json
+A	Mods.rivers-primal/CarryOn-1.20.0-pre_v1.8.0-pre.1/CarryOn.pdb
+A	Mods.rivers-primal/CarryOn-1.20.0-pre_v1.8.0-pre.1/UNLICENSE
+A	Mods.rivers-primal/CarryOn-1.20.0-pre_v1.8.0-pre.1/modinfo.json
+A	Mods.rivers-primal/ExtraInfo-v1.8.1/ExtraInfo.deps.json
+A	Mods.rivers-primal/ExtraInfo-v1.8.1/ExtraInfo.pdb
+A	Mods.rivers-primal/ExtraInfo-v1.8.1/LICENSE
+A	Mods.rivers-primal/ExtraInfo-v1.8.1/modinfo.json
+A	Mods.rivers-primal/JuicyOres-v1.0.0/modinfo.json
+A	Mods.rivers-primal/NotEnoughMapIcons-v1.1.0/credits.txt
+A	Mods.rivers-primal/NotEnoughMapIcons-v1.1.0/modinfo.json
+A	Mods.rivers-primal/bags_0.1.21-a
+A	Mods.rivers-primal/blocksoverlay-3.4.0/modinfo.json
+A	Mods.rivers-primal/buzzwords_1.7.0/buzzwords.deps.json
+A	Mods.rivers-primal/buzzwords_1.7.0/buzzwords.pdb
+A	Mods.rivers-primal/buzzwords_1.7.0/modinfo.json
+A	Mods.rivers-primal/localrespawns_1.0.7/LocalRespawns.deps.json
+A	Mods.rivers-primal/localrespawns_1.0.7/LocalRespawns.pdb
+A	Mods.rivers-primal/localrespawns_1.0.7/modinfo.json
+A	Mods.rivers-primal/primitivesurvival_3.6.8/modinfo.json
+A	Mods.rivers-primal/primitivesurvival_3.6.8/primitivesurvival.deps.json
+A	Mods.rivers-primal/primitivesurvival_3.6.8/primitivesurvival.pdb
+A	Mods.rivers-primal/rivers_3.2.0/Rivers.deps.json
+A	Mods.rivers-primal/rivers_3.2.0/Rivers.pdb
+A	Mods.rivers-primal/rivers_3.2.0/modinfo.json
+A	Mods.rivers-primal/stepupcontinued_0.0.1/modinfo.json
+A	Mods.rivers-primal/stepupcontinued_0.0.1/stepupcontinued.deps.json
+A	Mods.rivers-primal/stepupcontinued_0.0.1/stepupcontinued.pdb
+A	Mods.rivers-primal/vsimgui_1.1.6/ImGui.NET.xml
+A	Mods.rivers-primal/vsimgui_1.1.6/ImGuiController_OpenTK.dll.config
+A	Mods.rivers-primal/vsimgui_1.1.6/ImGuiController_OpenTK.pdb
+A	Mods.rivers-primal/vsimgui_1.1.6/ImGuizmo.NET.xml
+A	Mods.rivers-primal/vsimgui_1.1.6/ImNodes.NET.xml
+A	Mods.rivers-primal/vsimgui_1.1.6/ImPlot.NET.xml
+A	Mods.rivers-primal/vsimgui_1.1.6/VSImGui.deps.json
+A	Mods.rivers-primal/vsimgui_1.1.6/VSImGui.pdb
+A	Mods.rivers-primal/vsimgui_1.1.6/VSImGui.xml
+A	Mods.rivers-primal/vsimgui_1.1.6/modinfo.json
+A	Mods.rivers-primal/vsimgui_1.1.6/native/linux/cimgui.so
+A	Mods.rivers-primal/vsimgui_1.1.6/native/linux/cimguizmo.so
+A	Mods.rivers-primal/vsimgui_1.1.6/native/linux/cimnodes.so
+A	Mods.rivers-primal/vsimgui_1.1.6/native/linux/cimplot.so
+A	Mods.rivers-primal/vsimgui_1.1.6/native/mac/cimgui.dylib
+A	Mods.rivers-primal/vsimgui_1.1.6/native/mac/cimguizmo.dylib
+A	Mods.rivers-primal/vsimgui_1.1.6/native/mac/cimnodes.dylib
+A	Mods.rivers-primal/vsimgui_1.1.6/native/mac/cimplot.dylib
+A	Mods.rivers-primal/vtr-rivers-primal.txt
+A	Mods.rivers-primal/vtr_4.0.4/modinfo.json
+A	Mods.vanilla-rivers/Auto Map Markers 4.0.0/automapmarkers.pdb
+A	Mods.vanilla-rivers/Auto Map Markers 4.0.0/modinfo.json
+A	Mods.vanilla-rivers/ExtraInfo-v1.8.1/ExtraInfo.deps.json
+A	Mods.vanilla-rivers/ExtraInfo-v1.8.1/ExtraInfo.pdb
+A	Mods.vanilla-rivers/ExtraInfo-v1.8.1/LICENSE
+A	Mods.vanilla-rivers/ExtraInfo-v1.8.1/modinfo.json
+A	Mods.vanilla-rivers/JuicyOres-v1.0.0/modinfo.json
+A	Mods.vanilla-rivers/NotEnoughMapIcons-v1.1.0/credits.txt
+A	Mods.vanilla-rivers/NotEnoughMapIcons-v1.1.0/modinfo.json
+A	Mods.vanilla-rivers/Plainsandvalleys-v1.0.6/modinfo.json
+A	Mods.vanilla-rivers/bags_0.1.21-a
+A	Mods.vanilla-rivers/blocksoverlay-3.3.0/modinfo.json
+A	Mods.vanilla-rivers/buzzwords_1.7.0/buzzwords.deps.json
+A	Mods.vanilla-rivers/buzzwords_1.7.0/buzzwords.pdb
+A	Mods.vanilla-rivers/buzzwords_1.7.0/modinfo.json
+A	Mods.vanilla-rivers/localrespawns_1.0.7/LocalRespawns.deps.json
+A	Mods.vanilla-rivers/localrespawns_1.0.7/LocalRespawns.pdb
+A	Mods.vanilla-rivers/localrespawns_1.0.7/modinfo.json
+A	Mods.vanilla-rivers/plains-and-rivers.txt
+A	Mods.vanilla-rivers/precisepickedup_1.0.2/PrecisePickedUp.deps.json
+A	Mods.vanilla-rivers/precisepickedup_1.0.2/PrecisePickedUp.pdb
+A	Mods.vanilla-rivers/precisepickedup_1.0.2/modinfo.json
+A	Mods.vanilla-rivers/rivers_3.2.0/Rivers.deps.json
+A	Mods.vanilla-rivers/rivers_3.2.0/Rivers.pdb
+A	Mods.vanilla-rivers/rivers_3.2.0/modinfo.json
+A	Mods.vanilla-rivers/stepupcontinued_0.0.1/modinfo.json
+A	Mods.vanilla-rivers/stepupcontinued_0.0.1/stepupcontinued.deps.json
+A	Mods.vanilla-rivers/stepupcontinued_0.0.1/stepupcontinued.pdb
+A	Mods.vanilla-rivers/vsimgui_1.1.6/ImGui.NET.xml
+A	Mods.vanilla-rivers/vsimgui_1.1.6/ImGuiController_OpenTK.dll.config
+A	Mods.vanilla-rivers/vsimgui_1.1.6/ImGuiController_OpenTK.pdb
+A	Mods.vanilla-rivers/vsimgui_1.1.6/ImGuizmo.NET.xml
+A	Mods.vanilla-rivers/vsimgui_1.1.6/ImNodes.NET.xml
+A	Mods.vanilla-rivers/vsimgui_1.1.6/ImPlot.NET.xml
+A	Mods.vanilla-rivers/vsimgui_1.1.6/VSImGui.deps.json
+A	Mods.vanilla-rivers/vsimgui_1.1.6/VSImGui.pdb
+A	Mods.vanilla-rivers/vsimgui_1.1.6/VSImGui.xml
+A	Mods.vanilla-rivers/vsimgui_1.1.6/modinfo.json
+A	Mods.vanilla-rivers/vsimgui_1.1.6/native/linux/cimgui.so
+A	Mods.vanilla-rivers/vsimgui_1.1.6/native/linux/cimguizmo.so
+A	Mods.vanilla-rivers/vsimgui_1.1.6/native/linux/cimnodes.so
+A	Mods.vanilla-rivers/vsimgui_1.1.6/native/linux/cimplot.so
+A	Mods.vanilla-rivers/vsimgui_1.1.6/native/mac/cimgui.dylib
+A	Mods.vanilla-rivers/vsimgui_1.1.6/native/mac/cimguizmo.dylib
+A	Mods.vanilla-rivers/vsimgui_1.1.6/native/mac/cimnodes.dylib
+A	Mods.vanilla-rivers/vsimgui_1.1.6/native/mac/cimplot.dylib
+A	Mods/Auto Map Markers 4.0.0/automapmarkers.pdb
+A	Mods/Auto Map Markers 4.0.0/modinfo.json
+A	Mods/CarryOn-1.20.0-pre_v1.8.0-pre.1/CarryOn.deps.json
+A	Mods/CarryOn-1.20.0-pre_v1.8.0-pre.1/CarryOn.pdb
+A	Mods/CarryOn-1.20.0-pre_v1.8.0-pre.1/UNLICENSE
+A	Mods/CarryOn-1.20.0-pre_v1.8.0-pre.1/modinfo.json
+A	Mods/ExtraInfo-v1.8.1/ExtraInfo.deps.json
+A	Mods/ExtraInfo-v1.8.1/ExtraInfo.pdb
+A	Mods/ExtraInfo-v1.8.1/LICENSE
+A	Mods/ExtraInfo-v1.8.1/modinfo.json
+A	Mods/JuicyOres-v1.0.0/modinfo.json
+A	Mods/NotEnoughMapIcons-v1.1.0/credits.txt
+A	Mods/NotEnoughMapIcons-v1.1.0/modinfo.json
+A	Mods/bags_0.1.21-a
+A	Mods/blocksoverlay-3.4.0/modinfo.json
+A	Mods/buzzwords_1.7.0/buzzwords.deps.json
+A	Mods/buzzwords_1.7.0/buzzwords.pdb
+A	Mods/buzzwords_1.7.0/modinfo.json
+A	Mods/localrespawns_1.0.7/LocalRespawns.deps.json
+A	Mods/localrespawns_1.0.7/LocalRespawns.pdb
+A	Mods/localrespawns_1.0.7/modinfo.json
+A	Mods/primitivesurvival_3.6.8/modinfo.json
+A	Mods/primitivesurvival_3.6.8/primitivesurvival.deps.json
+A	Mods/primitivesurvival_3.6.8/primitivesurvival.pdb
+A	Mods/rivers_3.2.0/Rivers.deps.json
+A	Mods/rivers_3.2.0/Rivers.pdb
+A	Mods/rivers_3.2.0/modinfo.json
+A	Mods/stepupcontinued_0.0.1/modinfo.json
+A	Mods/stepupcontinued_0.0.1/stepupcontinued.deps.json
+A	Mods/stepupcontinued_0.0.1/stepupcontinued.pdb
+A	Mods/vsimgui_1.1.6/ImGui.NET.xml
+A	Mods/vsimgui_1.1.6/ImGuiController_OpenTK.dll.config
+A	Mods/vsimgui_1.1.6/ImGuiController_OpenTK.pdb
+A	Mods/vsimgui_1.1.6/ImGuizmo.NET.xml
+A	Mods/vsimgui_1.1.6/ImNodes.NET.xml
+A	Mods/vsimgui_1.1.6/ImPlot.NET.xml
+A	Mods/vsimgui_1.1.6/VSImGui.deps.json
+A	Mods/vsimgui_1.1.6/VSImGui.pdb
+A	Mods/vsimgui_1.1.6/VSImGui.xml
+A	Mods/vsimgui_1.1.6/modinfo.json
+A	Mods/vsimgui_1.1.6/native/linux/cimgui.so
+A	Mods/vsimgui_1.1.6/native/linux/cimguizmo.so
+A	Mods/vsimgui_1.1.6/native/linux/cimnodes.so
+A	Mods/vsimgui_1.1.6/native/linux/cimplot.so
+A	Mods/vsimgui_1.1.6/native/mac/cimgui.dylib
+A	Mods/vsimgui_1.1.6/native/mac/cimguizmo.dylib
+A	Mods/vsimgui_1.1.6/native/mac/cimnodes.dylib
+A	Mods/vsimgui_1.1.6/native/mac/cimplot.dylib
+A	Mods/vtr-rivers-primal.txt
+A	Mods/vtr_4.0.4/modinfo.json
+A	Playerdata/playerdata.json
+A	Playerdata/playergroups.json
+A	Playerdata/playersbanned.json
+A	Playerdata/playerswhitelisted.json
+A	README.MD
+A	Vintagestory.desktop
+A	VintagestoryAPI.xml
+A	VintagestoryLib.dll.config
+A	Worlds.txt
+A	client-crash.log.txt
+A	clientsettings.bkp
+A	clientsettings.json
+A	clientsettings.json.fix.1280x720
+A	clientsettings.json.fix.1920x1080
+A	credits.txt
+A	install.sh
+A	run.sh
+A	run1280.bat
+A	run1920.bat
+A	server.sh
+A	serverconfig.json
+A	servermagicnumbers.json
