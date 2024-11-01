@@ -331,8 +331,8 @@
   "AntiAbuse": 0,
   "WorldConfig": {
     "Seed": "",
-    "SaveFileLocation": "C:\\Users\\dmytr\\AppData\\Roaming\\VintagestoryData\\Saves\\stairs 1m 50-max.vcdbs",
-    "WorldName": "Stairs 1m 50%-max",
+    "SaveFileLocation": "C:\\Users\\dmytr\\AppData\\Roaming\\VintagestoryData\\Saves\\vanilla.vcdbs",
+    "WorldName": "Vanilla",
     "AllowCreativeMode": true,
     "PlayStyle": "surviveandbuild",
     "PlayStyleLangCode": "preset-surviveandbuild",

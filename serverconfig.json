@@ -21,9 +21,9 @@
   "MapSizeY": 320,
   "MapSizeZ": 256000,
   "ServerLanguage": "ru",
-  "MaxChunkRadius": 8,
+  "MaxChunkRadius": 12,
   "TickTime": 33.333332,
-  "SpawnCapPlayerScaling": 0.25,
+  "SpawnCapPlayerScaling": 0.5,
   "BlockTickChunkRange": 5,
   "MaxMainThreadBlockTicks": 10000,
   "RandomBlockTicksPerChunk": 16,
@@ -339,9 +339,9 @@
     "WorldType": "standard",
     "WorldConfiguration": {
       "gameMode": "survival",
-      "startingClimate": "temperate",
-      "spawnRadius": "50",
-      "graceTimer": "0",
+      "startingClimate": "warm",
+      "spawnRadius": "25",
+      "graceTimer": "1",
       "deathPunishment": "keep",
       "droppedItemsTimer": "600",
       "seasons": "enabled",
@@ -402,7 +402,17 @@
     },
     "MapSizeY": 256,
     "CreatedByPlayerName": "Dee",
-    "DisabledMods": [],
+    "DisabledMods": [
+      "aged@1.0.4",
+      "caninae@1.0.19",
+      "capreolinae@1.1.8",
+      "casuariidae@1.0.11",
+      "dinornithidae@1.0.1",
+      "machairodontinae@1.0.12",
+      "pantherinae@1.1.12",
+      "rhinocerotidae@1.0.6",
+      "sirenia@1.0.8"
+    ],
     "RepairMode": false
   },
   "NextPlayerGroupUid": 10,
@@ -429,5 +439,5 @@
   "LogBlockBreakPlace": false,
   "LogFileSplitAfterLine": 500000,
   "DieAboveErrorCount": 100000,
-  "DieAboveMemoryUsageMb": 500000
+  "DieAboveMemoryUsageMb": 50000
 }
